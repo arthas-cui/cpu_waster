@@ -6,6 +6,6 @@
 # cpu_waster
 
 It's a wast of cpu. as you wish. 
-In that case, your resource will be in a good case. 
+In that case, your resource will be in good case. 
 Then nobody can say "you should cut down your resource to save money".
 You know, they are too stupid to do anything. 
